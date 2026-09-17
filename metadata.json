@@ -1,0 +1,6 @@
+{
+  "name": "Personal Tracker",
+  "description": "Simple offline-first personal tracking app for work, trades, and discipline rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
